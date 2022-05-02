@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RomanKoloss
-- 👀 I’m interested in Front-End Decelopment
+- 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning WayUp IT School : Web-Developer: Code of Freelance
 - 💞️ I’m looking to collaborate on Back-End
 - 📫 How to reach me : via ig:roma_koloss
